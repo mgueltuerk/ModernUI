@@ -1,5 +1,4 @@
-# Modern UI a Windows Programm
-
-A new C# UIKIT project.
+# Modern UI
+## A new C# UIKIT project.
 
 ![Alt-Text](/modern-ui.png)
